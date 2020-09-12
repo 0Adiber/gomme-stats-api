@@ -15,6 +15,7 @@ The API responds with JSON objects.
 
 ### Playerstats
 <b>You send: </b>PLAYER as the Minecraft Username of the Player
+<i>This does currently not work, because GommeHD.net started using Cloudflare DDOS protection</i>
 
 #### 📜 Request
 ```
